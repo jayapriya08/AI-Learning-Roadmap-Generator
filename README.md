@@ -113,6 +113,7 @@ Each month contains:
 
 ## System Architecture
 
+```text
 User Input
     ↓
 Gradio Interface
@@ -159,15 +160,15 @@ The application was tested using different career goals, skill levels, study tim
 
 Test cases included:
 
-Machine Learning Engineer – Beginner – Python – 3 hours/day – 6 months
-Data Scientist – Intermediate – Python, SQL, Pandas, NumPy – 2 hours/day – 6 months
-Data Analyst – Advanced – Python, SQL – 1 hour/day – 3 months
-Unsupported career goal – Professional Chef – Beginner – Cooking – 2 hours/day – 6 months
+1. Machine Learning Engineer – Beginner – Python – 3 hours/day – 6 months
+2. Data Scientist – Intermediate – Python, SQL, Pandas, NumPy – 2 hours/day – 6 months
+3. Data Analyst – Advanced – Python, SQL – 1 hour/day – 3 months
+4. Unsupported career goal – Professional Chef – Beginner – Cooking – 2 hours/day – 6 months
 
 The unsupported career test confirmed that the system can identify when relevant information is not available in the knowledge base.
 
-##Project Links
-##GitHub Repository
+## Project Links
+### GitHub Repository
 
 https://github.com/jayapriya08/AI-Learning-Roadmap-Generator
 
@@ -200,7 +201,7 @@ Deployment Details
 Conclusion
 References
 
-##Team Members
+## Team Members
 Team Member 	Contribution
 [R. Jayapriya]	Project development, RAG implementation, application           integration, testing and documentation
 [Alli Satyaveni]
