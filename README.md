@@ -111,7 +111,7 @@ Each month contains:
 - Project
 - Expected Outcome
 
-## System Architecture
+# System Architecture
 
 ```text
 User Input
@@ -129,3 +129,12 @@ Knowledge Base
 Career-Specific Roadmap Generator
     ↓
 Personalized Learning Roadmap
+
+# Installation
+
+# 1. Clone the repository
+
+Open Command Prompt or Terminal and run:
+
+```bash
+git clone https://github.com/jayapriya08/AI-Learning-Roadmap-Generator.git
