@@ -91,3 +91,41 @@ Current Level: Beginner
 Current Skills: Python
 Available Study Time: 3 hours per day
 Learning Duration: 6 months
+# Example Output
+
+For a Machine Learning Engineer with beginner-level knowledge of Python and 3 hours of study time per day, the application generates a structured six-month roadmap.
+
+The roadmap includes:
+
+- Programming and Data Foundations
+- Machine Learning
+- Machine Learning Projects
+- Deep Learning
+- ML Deployment and MLOps
+- ML Engineer Portfolio and Interviews
+
+Each month contains:
+
+- Topics
+- Skills
+- Project
+- Expected Outcome
+
+## System Architecture
+
+```text
+User Input
+    ↓
+Gradio Interface
+    ↓
+Career Goal Query
+    ↓
+Sentence Transformer Embeddings
+    ↓
+FAISS Similarity Search
+    ↓
+Knowledge Base
+    ↓
+Career-Specific Roadmap Generator
+    ↓
+Personalized Learning Roadmap
